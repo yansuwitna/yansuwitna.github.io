@@ -10,4 +10,4 @@ Selamat datang di layanan GitHub I Wayan Suwitna
 
 ### Kontak
 
-[Yansuitna](http://yansuwitna.com)
+[Yansuwitna](http://yansuwitna.com)
